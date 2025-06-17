@@ -75,6 +75,7 @@ def change_steer_angle(inc):
     else:
         turn = "left" if steering_angle < 0 else "right"
         print("turning {} rad {}".format(str(steering_angle),turn))
+        print(f"SANTI - wheel_angle: ", steering_angle)
 
 # main
 def main():
@@ -90,7 +91,7 @@ def main():
     camera.enable(timestep)  # timestep
 
     # processing display
-    display_img = Display("display_image")
+    display_img = Display("display")
 
     #create keyboard instance
     keyboard=Keyboard()
