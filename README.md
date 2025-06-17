@@ -12,4 +12,11 @@ El proyecto tendrá la siguiente estructura:
 
 ### 2. Procesamiento de Dataset
 
-Test Security 
+
+
+**paths:** 
+
+"C:\Users\Santiago Reyes\Desktop\AUTONOMOUIS_CAR\0_Controlador_Webots"  
+
+
+"C:\Users\Santiago Reyes\Desktop\Código_active_class_4"
