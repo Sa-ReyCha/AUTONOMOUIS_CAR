@@ -5,6 +5,7 @@
 2_EDA_Data_Processing/df_dataset_metadatos.csv
 2_EDA_Data_Processing/imagenes.pkl
 2_EDA_Data_Processing/imagenes.npy
+2_EDA_Data_Processing/zip_dataset_1.zip
 
 # python envs
 .env_santi
