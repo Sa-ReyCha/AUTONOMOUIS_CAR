@@ -1,1 +1,10 @@
-1_DataSet
+1_DataSet/1_DataSet
+
+# DataSet
+2_EDA_Data_Processing/df_dataset_metadatos.pkl
+2_EDA_Data_Processing/df_dataset_metadatos.csv
+2_EDA_Data_Processing/imagenes.pkl
+2_EDA_Data_Processing/imagenes.npy
+
+# python envs
+.env_santi
